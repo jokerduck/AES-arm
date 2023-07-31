@@ -6,7 +6,7 @@ AES-arm
 
 #实验简介
 
-implement the naïve birthday attack of reduced SM3
+AES impl with ARM instruction
 
 #姓名
 
